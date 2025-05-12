@@ -1,0 +1,13 @@
+{
+    "description": "website for SpicyDevs",
+    "domain": "localplayer.dev",
+    "subdomain": "1st-person",
+    "owner": {
+        "repo": "https://github.com/1st-person/1st-person.github.io",
+        "email": "anshulyadav.official89@gmail.com"
+    },
+    "record": {
+        "A": "20.193.141.86"
+    },
+    "proxied": true
+}
